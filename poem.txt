@@ -1,4 +1,6 @@
 Cowboy
 Indianer
 Peasant
+Slave
 Heathen
+Women
