@@ -1,4 +1,4 @@
-Welcome to the wild Weste! We have:
+Welcome to the wild West! We have:
 Cowboy
 Indianer
 Peasant
@@ -6,3 +6,4 @@ Slave
 Heathen
 Women
 Big Iron
+Eingeborene
